@@ -1,0 +1,125 @@
+#header{
+display: grid;
+grid-template-columns: 2fr 5fr;
+background: #E67E22;
+color: white;
+
+}
+#ui{
+    display: grid;
+    grid-template-columns: 0.3fr 0.4fr;
+    color: black
+}
+
+.skills{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    color: black;
+}
+
+#ent{
+    margin-top: 0px;
+}
+#space{
+    margin: 20px;
+}
+
+#progress-bar{
+    background: white;
+    height: 10px;
+    margin-top: 5px;
+    width: 100px;
+    color: white;
+
+}
+#progress{
+    background: black;
+    height: 10px;
+    width: 80px;
+}
+.topM{
+    margin-top: 10px;
+
+}
+#contact{
+    background: #A04000;
+    margin-top: 10px;
+    color: white;
+
+}
+#Skills{
+    background: #A04000;
+    margin-top: 10px;
+    color: white;
+}
+#exp1{
+    margin-right: 20px;
+    display: grid;
+    grid-template-columns: 1fr 2.5fr 4fr;
+    color: black;
+    
+    
+}
+p{
+    text-align: justify;
+}
+#head{
+    font-weight: bold;
+}
+svg{
+    height: 1em;
+    margin-left: 40px;
+}
+#left-margm{
+    margin-left:40px;
+    font-weight: bold;
+    
+}
+.box{
+    height: 20px;
+    width: 20px;
+    background: #FBFCFC;
+}
+
+#image{
+    height: 150px;
+    width: 150px;
+    margin-top:20px;
+    margin-bottom:20px;
+    margin-left:20px;
+    
+
+}
+#name{
+    letter-spacing: 0.5em;
+    font-weight: bold;
+    margin-top: 20px;
+
+}
+#web{
+    letter-spacing: 0.2em;
+    margin-top: 50px;
+}
+#underline{
+    width: 370px;
+    height: 7px;
+    background: #FBFCFC;
+    margin-top: 10px;
+}
+#exp{
+
+    background: #A04000;
+    margin-top: 10px;
+    color: white;
+    
+    
+    
+     
+}
+#wrapper{
+    padding: 0px;
+    margin-top: 50px;
+    color: black;
+}
+
+
